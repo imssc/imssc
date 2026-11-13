@@ -78,24 +78,6 @@ I'm a UI Developer with **6+ years** of hands-on experience crafting responsive,
 ![Agile](https://img.shields.io/badge/Agile-009639?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS_S3%2FCloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
----
-
-### 💼 Experience Highlights
-
-**UI Developer / Front-End Developer** · Cardinal Health · *Jan 2025 – Present*  
-- Built high-performance React 18 + TypeScript dashboards → **38% faster load times**, Lighthouse score **61 → 94**
-- Created a reusable component library (30+ components) with Storybook + Tailwind → adopted by 4 teams, **~25% faster feature delivery**
-- Delivered real-time notifications (WebSockets + REST) serving **500K+ DAU**
-- Led WCAG 2.1 AA accessibility remediation (47 issues fixed) and mentored junior engineers
-
-**Front-End Engineer** · Qualcomm · *Jul 2020 – Nov 2022*  
-- Owned 15+ React features for a B2B SaaS platform (120K users)
-- Migrated class components → Hooks → **18% smaller codebase**, 40+ bugs eliminated
-- Raised test coverage from **34% → 78%** with Jest, RTL & Cypress
-- Integrated Stripe + OAuth (Google/GitHub) → **22% increase** in premium conversions
-
-**Front-End Developer Intern** · Qualcomm · *Jan 2019 – Jun 2020*  
-- Built responsive marketing pages → **14% higher mobile conversion**
 
 ---
 
