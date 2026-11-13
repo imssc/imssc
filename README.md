@@ -20,7 +20,7 @@ Currently shipping high-performance dashboards used by 500K+ daily active users.
 
 I'm a UI Developer with **6+ years** of hands-on experience crafting responsive, high-performance front-end applications. I specialize in the **React ecosystem** and love turning complex product requirements into clean, scalable, and accessible interfaces.
 
-- 🔭 Currently building enterprise dashboards & reusable component systems at **Cardinal Health**
+- 🔭 Currently building enterprise dashboards & reusable component systems at **Optum**
 - 🌱 Deepening full-stack skills with **Node.js, Express, PostgreSQL & FastAPI**
 - 🎨 Collaborate closely with design teams using **Figma**
 - 🤖 Accelerate development with AI tools (**Cursor** + **Claude Code**)
