@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi, I'm Shiva Shankar Cheruku 👋
@@ -8,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiva-cheruku)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imssc)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivashankar.ch1225@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Location-Montgomery%2C%20AL-0A66C2?style=for-the-badge)](https://github.com/imssc)
+[![Location](https://img.shields.io/badge/Location-Montgomery%2C%20AL-0A66C2?style=for-the-badge)](https://github.com/imssc)
 
 **Building scalable applications, modern user interfaces, and reliable backend systems.**
 
@@ -43,7 +42,7 @@ Currently working on enterprise healthcare applications at **Optum (UnitedHealth
 
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript- F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
@@ -111,54 +110,50 @@ Currently working on enterprise healthcare applications at **Optum (UnitedHealth
 
 ### 💼 Professional Experience
 
-**Full Stack Developer — Optum (UnitedHealthcare Group)**
-
+**Full Stack Developer — Optum (UnitedHealthcare Group)**  
 *January 2025 – Present*
 
-- Developing enterprise healthcare applications using React, TypeScript, Node.js, Express.js, and Python.
-- Building responsive dashboards and member-facing application workflows.
-- Integrating REST APIs and FHIR/HL7-based healthcare services.
-- Developing backend business logic, authentication, validation, and asynchronous processing.
-- Working with PostgreSQL, complex SQL queries, and data access optimization.
-- Creating reusable UI components using Storybook and Tailwind CSS.
-- Implementing real-time notifications using WebSockets.
+- Developing enterprise healthcare applications using React, TypeScript, Node.js, Express.js, and Python
+- Building responsive dashboards and member-facing application workflows
+- Integrating REST APIs and FHIR/HL7-based healthcare services
+- Developing backend business logic, authentication, validation, and asynchronous processing
+- Working with PostgreSQL, complex SQL queries, and data access optimization
+- Creating reusable UI components using Storybook and Tailwind CSS
+- Implementing real-time notifications using WebSockets
 
-**Front-End Developer — Sportskeeda**
-
+**Front-End Developer — Sportskeeda**  
 *January 2020 – November 2022*
 
-- Built React-based features for high-traffic sports and entertainment platforms.
-- Developed responsive interfaces and reusable component systems.
-- Implemented centralized state management using Redux Toolkit.
-- Integrated REST APIs, OAuth authentication, and Stripe payment workflows.
-- Improved application performance through lazy loading, code splitting, and memoization.
-- Increased automated test coverage from 34% to 78% using Jest and React Testing Library.
+- Built React-based features for high-traffic sports and entertainment platforms
+- Developed responsive interfaces and reusable component systems
+- Implemented centralized state management using Redux Toolkit
+- Integrated REST APIs, OAuth authentication, and Stripe payment workflows
+- Improved application performance through lazy loading, code splitting, and memoization
+- Increased automated test coverage from 34% to 78% using Jest and React Testing Library
 
 ---
 
 ### ⚡ Engineering Highlights
 
-| Achievement | Impact |
-|:---|:---|
-| Dashboard Performance | 🚀 38% faster page loads |
-| Lighthouse Score | 📈 Improved from 61 to 94 |
-| Application Scale | 🌎 Systems serving 500K+ daily active users |
-| Test Coverage | 🧪 Improved from 34% to 78% |
-| Defect Resolution | 🛠️ Resolved 40+ front-end defects |
-| Product Conversion | 📊 Contributed to 22% increase in premium conversions |
+| Achievement              | Impact                                      |
+|:-------------------------|:--------------------------------------------|
+| Dashboard Performance    | 🚀 38% faster page loads                    |
+| Lighthouse Score         | 📈 Improved from 61 → 94                    |
+| Application Scale        | 🌎 Systems serving 500K+ daily active users |
+| Test Coverage            | 🧪 Improved from 34% → 78%                  |
+| Defect Resolution        | 🛠️ Resolved 40+ front-end defects           |
+| Product Conversion       | 📊 Contributed to 22% increase in premium conversions |
 
 ---
 
 ### 🎓 Education
 
-**Master of Science — Computer Science**
-
-Auburn University at Montgomery | December 2024  
+**Master of Science — Computer Science**  
+Auburn University at Montgomery · December 2024  
 GPA: 3.65 / 4.0
 
-**Bachelor of Engineering — Computer Science**
-
-Jawaharlal Nehru Technological University Hyderabad | October 2020
+**Bachelor of Engineering — Computer Science**  
+Jawaharlal Nehru Technological University Hyderabad · October 2020
 
 ---
 
@@ -167,9 +162,7 @@ Jawaharlal Nehru Technological University Hyderabad | October 2020
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=imssc&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imssc&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=imssc&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 
 </div>
@@ -184,9 +177,10 @@ I'm always open to interesting conversations about full-stack engineering, React
 - 🐙 [GitHub](https://github.com/imssc)
 - ✉️ [Email](mailto:shivashankar.ch1225@gmail.com)
 
+<br>
+
 <div align="center">
 
 ⭐️ From [imssc](https://github.com/imssc)
 
 </div>
-```
